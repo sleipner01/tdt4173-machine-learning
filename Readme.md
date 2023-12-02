@@ -1,3 +1,17 @@
+# TDT4173 - Machine Learning Project
+
+This is the repository for a project in TDT4173 - Machine Learning at NTNU. The project is about forecasting solar energy production. 
+
+The project was done by:
+
+- [Sondre Kolberg](https://github.com/sondrekol)
+- [Oscar Timm Marcussen](https://github.com/oscarmarcussen)
+- [Magnus Byrkjeland](https://github.com/sleipner01)
+
+The repo is structured into branches, where each branch contains a different approach to the problem, data exploration, data cleaning and model generation. There also exists a branch for the final delivery. 
+
+The project is based on a Kaggle competition. Sadly, the competition is private, but the project and data is described in the section below.
+
 # Solar Dayahead Forecast Data
 
 This dataset provides data for evaluating solar production dayahead forecasting methods.
